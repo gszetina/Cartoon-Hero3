@@ -1,0 +1,33 @@
+body{
+	background-color: silver;
+}
+
+h1{
+	font-size: 30px;
+	color: crimson;
+}
+
+h2{
+	font-size: 15px;
+	color: steelblue;
+}
+
+h2{
+	color: gold;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: steelblue;
+}
+
+h1 span{
+	color: gray;
+}
